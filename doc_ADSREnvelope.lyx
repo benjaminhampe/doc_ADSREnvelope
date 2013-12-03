@@ -100,7 +100,303 @@ EFT_COUNT
 \end_layout
 
 \begin_layout Standard
+Lineare Funktion ( Potenzfunktion, Polynom 1.
+ Grades )
+\end_layout
 
+\begin_layout Standard
+\begin_inset Formula $y=f(t)\rightarrow y\sim t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(x-b)+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+a - Anstieg
+\end_layout
+
+\begin_layout Standard
+b - Verschiebung auf der X-Achse
+\end_layout
+
+\begin_layout Standard
+c - Verschiebung auf der Y-Achse
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $a=$
+\end_inset
+
+
+\begin_inset Formula $\frac{\Delta y}{\Delta t}=tan(\alpha),\alpha\angle(\overrightarrow{e_{a}},\overrightarrow{e_{t}})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quadratische Funktion ( Potenzfunktion, Polynom 2.
+ Grades )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=f(t)\rightarrow y\sim t^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Scheitelpunktform:
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(t-b)^{2}+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(t^{2}-2bt+b^{2})+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=at^{2}-2abt+ab^{2}+c$
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ 
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Vergleich mit der allgemeinen Form
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=at^{2}+bt+c$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Kubische Funktion ( Potenzfunktion, Polynom 3.
+ Grades, hat in allgemeinster Form eigentlich 4 Parameter 
+\begin_inset Formula $y=f(t)=at^{3}+bt^{2}+ct+d$
+\end_inset
+
+ )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=f(t)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(t-b)^{3}+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(t-b)*(t^{2}-2bt+b^{2})+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(t^{3}-2bt^{2}+b^{2}t-bt^{2}+2b^{2}t-b^{3})+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $y=a*(t^{3}-3bt^{2}+3b^{2}t-b^{3})+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Wurzelfunktion ( Potenzfunktion, Polynom 2.
+ Grades )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=f(t)=a*(x-b)^{\frac{1}{2}}+c=a*\sqrt{x-b}+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Exponentialfunktion zur Basis e ( e-Funktion )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=f(t)=a*e^{x-b}+c=ae^{-b}*e^{x}+c$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Logarithmusfunktion ( Umkehrfunktion der e-Funktion )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=f(t)=a*ln(x-b)+c=a*ln(x)/ln(b)+c=\frac{a}{ln(b)}*ln(x)+c$
+\end_inset
+
+ 
 \end_layout
 
 \end_body

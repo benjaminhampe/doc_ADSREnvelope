@@ -1,0 +1,10 @@
+y = f(t) = a*(t-b)+c \; \; \; \; [linear, Potenz\: 1.Grades]\\
+y = f(t) = a*(t-b)^2+c \; \; \; \; [quadratisch, Potenz\: 2.Grades]\\
+y = f(t) = a*\sqrt{t-b}+c \; \; \; \; [Wurzel, Potenz\: 2.Grades]\\
+y = f(t) = a*(t-b)^3+c \; \; \; \; [kubisch, Potenz\: 3.Grades]\\
+y = f(t) = a*e^{(t-b)}+c \; \; \; \; [exponentiell]\\
+y = f(t) = a*ln(t-b)+c \; \; \; \; [logarithmisch]\\
+\\
+a = Amplitude \\
+b = Verschiebung\: auf\: X-Achse \\
+c = Verschiebung\: auf\: Y-Achse \\
