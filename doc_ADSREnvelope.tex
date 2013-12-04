@@ -1,0 +1,83 @@
+%% LyX 2.0.6 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[german]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{amssymb}
+\usepackage{babel}
+\begin{document}
+class CADSREnvelope
+
+\{
+
+enum E\_FUNCTION\_TYPE
+
+\{
+
+EFT\_CONSTANT = 0,
+
+EFT\_LINEAR,
+
+EFT\_QUADRATIC,
+
+EFT\_EXPONENTIAL,
+
+EFT\_COUNT
+
+\};
+
+Lineare Funktion ( Potenzfunktion, Polynom 1. Grades )
+
+$y=f(t)\rightarrow y\sim t$
+
+$y=a*(x-b)+c$
+
+a - Anstieg
+
+b - Verschiebung auf der X-Achse
+
+c - Verschiebung auf der Y-Achse
+
+$a=$$\frac{\Delta y}{\Delta t}=tan(\alpha),\alpha\angle(\overrightarrow{e_{a}},\overrightarrow{e_{t}})$
+
+Quadratische Funktion ( Potenzfunktion, Polynom 2. Grades )
+
+$y=f(t)\rightarrow y\sim t^{2}$
+
+Scheitelpunktform:
+
+$y=a*(t-b)^{2}+c$
+
+$y=a*(t^{2}-2bt+b^{2})+c$
+
+$y=at^{2}-2abt+ab^{2}+c$ 
+
+Vergleich mit der allgemeinen Form:
+
+$y=at^{2}+bt+c$ 
+
+Kubische Funktion ( Potenzfunktion, Polynom 3. Grades, hat in allgemeinster Form
+eigentlich 4 Parameter $y=f(t)=at^{3}+bt^{2}+ct+d$ )
+
+$y=f(t)$
+
+$y=a*(t-b)^{3}+c$
+
+$y=a*(t-b)*(t^{2}-2bt+b^{2})+c$
+
+$y=a*(t^{3}-2bt^{2}+b^{2}t-bt^{2}+2b^{2}t-b^{3})+c$
+
+$y=a*(t^{3}-3bt^{2}+3b^{2}t-b^{3})+c$
+
+Wurzelfunktion ( Potenzfunktion, Polynom 2. Grades )
+
+$y=f(t)=a*(x-b)^{\frac{1}{2}}+c=a*\sqrt{x-b}+c$
+
+Exponentialfunktion zur Basis e ( e-Funktion )
+
+$y=f(t)=a*e^{x-b}+c=ae^{-b}*e^{x}+c$
+
+Logarithmusfunktion ( Umkehrfunktion der e-Funktion )
+
+$y=f(t)=a*ln(x-b)+c=a*ln(x)/ln(b)+c=\frac{a}{ln(b)}*ln(x)+c$ 
+\end{document}
